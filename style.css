@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+#name{
+    font-size: 50px;
+    color: green;
+}
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.button1
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightgreen,green);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+p{
+    color: gray;
+}
+.top-banner
+{
+    background-image: url("Images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+}
+section.top-banner{
+    height: 600px;
+    padding-bottom: 100px;
+}
+.biography{
+    background-image: url("Images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100%;
+}
+section.biography{
+    height: 600px;
+    padding-bottom: 100px;
+}
+.head-latest
+{
+    text-align: center;
+}
+section.row{
+    height: 600px;
+    padding-bottom: 60px;
+}
+.column
+{
+    width: 26%;
+    float: left;
+    margin-left: 5%;
+    padding: 0.5%;
+}
+.column img{
+    width: 100%;
+}
+.client
+{
+    text-align: center;
+    padding-bottom: 80px;
+}
+.mail {
+    color: white;
+    margin: auto;
+    width: 30%;
+    border: 1px solid mediumseagreen;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: mediumseagreen;
+  }
+.piyal
+  {
+      font-size: 22px;
+  }
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
